@@ -1,0 +1,106 @@
+    1  help/cd
+    2  help cd
+    3  man cd
+    4  clear
+    5  brew install git
+    6  $ brew install git
+    7  brew install git
+    8  brew -v
+    9  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)\n"
+   10  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   11  brew install git
+   12  $ brew install git
+   13  brew install git
+   14  brew -v
+   15  echo 'eval "$(/opt/homebrew/bin/brew shellenv zsh)"\n'
+   16  echo 'eval "$(/opt/homebrew/bin/brew shellenv zsh)"'
+   17  eval "$(/opt/homebrew/bin/brew shellenv zsh)"
+   18  brew -v
+   19  brew install git
+   20  git --version
+   21  clear
+   22  git --version
+   23  clear
+   24  ls
+   25  cd deskop
+   26  cd Desktop
+   27  git touch Git_H/W
+   28  touch Git_H/W
+   29  mkdir Git_H/W
+   30  mkdir ~/Desktop/Git_H/W
+   31  cd..
+   32  cd../
+   33  cd/..
+   34  /cd..
+   35  clear
+   36  cd ..
+   37  mkdir ~/Desktop/Git_H/W
+   38  mkdir ~/Users/angelinaboyko/Desktop/Git_H
+   39  mkdir /Users/angelinaboyko/Desktop/Git_H
+   40  rm Git_H
+   41  rmdir Git_H
+   42  cd Desktop
+   43  rmdir Git_H
+   44  cd ..
+   45  mkdir /Users/angelinaboyko/Desktop/Git_H/W
+   46  mkdir /Users/angelinaboyko/Desktop/Git
+   47  cd Desktop
+   48  cd Git
+   49  clear
+   50  git config --global user.name "Angelina Boiko"
+   51  git config --global user.email boykoangelina29@gmail.com
+   52  pwd
+   53  git clone https://github.com/angelinab17/HW_10.git
+   54  cd HW_10
+   55  touch text_ignore.txt
+   56  nano .gitignore
+   57  git status
+   58  git add
+   59  git add .
+   60  gir status
+   61  git status
+   62  git commit
+   63  git status
+   64  git add .gitignore
+   65  git status
+   66  git commit
+   67  clear
+   68  git status
+   69  git restore .
+   70  clear
+   71  git status
+   72  git restore --staged .
+   73  git restore .
+   74  git status
+   75  nano .gitignore
+   76  git status
+   77  git add .gitignore
+   78  git status
+   79  git commit -m "Added file to .gitignore"
+   80  gir status
+   81  git status
+   82  touch main_test.txt
+   83  git status
+   84  git add .
+   85  git status
+   86  git commit -m "New file added"
+   87  git status
+   88  git checkout -b develop
+   89  git status
+   90  git checkout develop
+   91  touch develop_test.txt
+   92  git add .
+   93  git status
+   94  git commit -m "New file added to branch develop"
+   95  git status
+   96  nano develop_test.txt
+   97  git status
+   98  git add .
+   99  git status
+  100  git commit -m "file develop_test.txt modified"
+  101  git status
+  102  git checkout main
+  103  git status
+  104  git merge develop
+  105  git log
+  106  git status
